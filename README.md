@@ -4,4 +4,5 @@ The project aims to analyze and gather data information about fifteen different 
 
  - District summary data frame
  
- ![district_summary_df](https://user-images.githubusercontent.com/84139825/171024387-a242f839-f259-461f-bef4-9767d11e787d.PNG)
+ ![district_summary_df](https://user-images.githubusercontent.com/84139825/171025277-97153efe-c11d-4fb9-9a47-55b5cfc16727.PNG)
+
