@@ -4,5 +4,9 @@ The project aims to analyze and gather data information about fifteen different 
 
  - District summary data frame
  
+ ![district_summary_1_df](https://user-images.githubusercontent.com/84139825/171051792-281f6653-72a7-473e-b50c-8522e824a479.PNG)
+
+- District summary data frame after replacing Thomas High School ninegraders' reading and writing with NAN
+ 
  ![district_summary_df](https://user-images.githubusercontent.com/84139825/171025277-97153efe-c11d-4fb9-9a47-55b5cfc16727.PNG)
 
