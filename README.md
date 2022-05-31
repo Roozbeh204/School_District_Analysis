@@ -25,7 +25,7 @@ The project aims to analyze and gather data information about fifteen different 
 - How does replacing the ninth-grade scores affect the following:
 
  - Math and reading scores by grade
- ![math scores](https://user-images.githubusercontent.com/84139825/171185883-38c2bf57-12f3-4861-9380-d316d614092c.PNG)
+ ![math scores](https://user-images.githubusercontent.com/84139825/171186734-37994c53-0489-4fd3-89a5-deaf4cc83ed6.PNG)
  ![Reading scores](https://user-images.githubusercontent.com/84139825/171185960-81b94d71-1be0-46b1-97d5-1860a2320ce2.PNG)
 
  - Scores by school spending
