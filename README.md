@@ -18,5 +18,11 @@ The project aims to analyze and gather data information about fifteen different 
  
  ![Thomas high school new](https://user-images.githubusercontent.com/84139825/171180221-28b036ae-46e5-4376-b51a-a87e3dba6da8.PNG)
 
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools
+
+![Thomas School performance](https://user-images.githubusercontent.com/84139825/171184216-01d55406-529d-4e8e-b13c-bbc1e3e07be6.PNG)
+
+
+
 
 
