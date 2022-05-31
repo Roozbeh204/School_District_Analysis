@@ -22,6 +22,22 @@ The project aims to analyze and gather data information about fifteen different 
 
 ![Thomas School performance](https://user-images.githubusercontent.com/84139825/171184216-01d55406-529d-4e8e-b13c-bbc1e3e07be6.PNG)
 
+- How does replacing the ninth-grade scores affect the following:
+
+ - Math and reading scores by grade
+ ![math scores](https://user-images.githubusercontent.com/84139825/171185883-38c2bf57-12f3-4861-9380-d316d614092c.PNG)
+ ![Reading scores](https://user-images.githubusercontent.com/84139825/171185960-81b94d71-1be0-46b1-97d5-1860a2320ce2.PNG)
+
+ - Scores by school spending
+ ![spending](https://user-images.githubusercontent.com/84139825/171186026-040595ef-c482-4cc5-9d83-42c414f7dab4.PNG)
+
+ - Scores by school size
+ ![size](https://user-images.githubusercontent.com/84139825/171186110-5125c435-b0a2-47ba-847a-5aea996f7b02.PNG)
+
+ - Scores by school type
+ -![type](https://user-images.githubusercontent.com/84139825/171186175-a5394c00-7446-47fe-96ec-af2e98ab64eb.PNG)
+
+
 
 
 
